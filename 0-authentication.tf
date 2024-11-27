@@ -11,5 +11,7 @@ terraform {
 
 # Configure the AWS Provider
 provider "aws" {
-  region = "euuu-west-1"
+  region = "eu-west-1"
 }
+
+#can you see the change now?
